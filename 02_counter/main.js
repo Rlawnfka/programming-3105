@@ -1,18 +1,18 @@
-let count = 0;
-const num = document.getElementById("result");
+// let count = 0;
+// const num = document.getElementById("result");
 
-function plus(){
-    count++;
-    num.innerHTML = count;
-}
-function plusTwo(){
-    count+=2;
-    num.innerHTML = count;
-}
-function minus(){
-    count--;
-    num.innerHTML = count;
-}
+// function plus(){
+//     count++;
+//     num.innerHTML = count;
+// }
+// function plusTwo(){
+//     count+=2;
+//     num.innerHTML = count;
+// }
+// function minus(){
+//     count--;
+//     num.innerHTML = count;
+// }
 
 
 // const num = document.querySelector("#plus");
@@ -28,4 +28,4 @@ function minus(){
 //     num.innerHTML = count;
 // };
 
-num.innerHTML = count;
+// num.innerHTML = count;
